@@ -1,0 +1,22 @@
+Entidad: Causa
+
+Campos principales:
+- id . 001
+- titulo Recolección Basuras
+- descripcion, En el parque  principal no se ha recolectado la basura hace 7 dias
+- fecha 15 julio de 2026
+
+Propósito:
+Guardar las causas comunitarias que serán visibles en la plataforma.
+
+
+Entidad: Apoyo
+
+Campos principales:
+- id  001A
+- causa_id: 001
+- usuario: Juanito Ramirez
+- fecha: 15 julio de 2026
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento a la participación.

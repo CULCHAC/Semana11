@@ -1,0 +1,25 @@
+Qué es el login en una aplicación.
+
+
+Login es el proceso mediante el cual un usuario se autentica en una aplicación para acceder a sus servicios de manera segura.
+Definición y propósito
+El login, también llamado iniciar sesión o loguearse, es el procedimiento 
+mediante el cual un usuario demuestra su identidad ante una app o sistema usando credenciales,
+como un nombre de usuario y contraseña, o métodos biométricos 
+
+Por qué algunas rutas deben estar protegidas.
+
+
+Algunas rutas deben estar protegidas
+porque pueden contener información privada, registros internos o acciones que no deberían 
+estar disponibles para cualquier persona.
+
+
+
+
+Qué tipo de información no debería exponerse públicamente.
+
+
+No se deben exponer 
+públicamente contraseñas, documentos de identidad, teléfonos, direcciones, tokens, 
+claves de API ni datos sensibles de la comunidad.
